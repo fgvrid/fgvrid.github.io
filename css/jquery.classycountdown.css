@@ -11,7 +11,7 @@
 .ClassyCountdown-wrapper > div {
     display: inline-block;
     position: relative;
-    width: calc(15% - 20px);
+    width: calc(19% - 20px);
     margin: 5px;
 }
 
