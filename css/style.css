@@ -1486,7 +1486,7 @@
 
 body {
     font-family: "Roboto", sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 20px;
     color: #676767;
     font-weight: 400;
@@ -1710,13 +1710,14 @@ code, .code, kbd, .kbd, pre, .pre, samp, .samp {
     margin-right: 12px;
 }
 .organizer-avatar img {
+	transform: scale(1.0);
     border-radius: 100%;
     border: 3px solid #fee19b;
     display: block;
 }
 .organizer-author {
     display: block;
-    padding-top: 6px;
+    padding-top: 8px;
 }
 
 .ClassyCountdownDemo { 
@@ -1748,3 +1749,4 @@ code, .code, kbd, .kbd, pre, .pre, samp, .samp {
 	left:0;
 	display: inline;
 }
+
