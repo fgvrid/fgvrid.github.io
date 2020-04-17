@@ -1704,7 +1704,6 @@ code, .code, kbd, .kbd, pre, .pre, samp, .samp {
     position: relative;
     z-index: 300;
     margin-top: -10px;
-    padding-bottom: 20px;
 }
 
 .organizer-avatar {
@@ -1724,7 +1723,7 @@ code, .code, kbd, .kbd, pre, .pre, samp, .samp {
 	margin:0 auto 30px auto; 
 	max-width:800px; 
 	width:calc(100%); 
-	padding-bottom:30px; 
+
 	display:block 
 	}
 	#countdown2 { background-color: transparent}
